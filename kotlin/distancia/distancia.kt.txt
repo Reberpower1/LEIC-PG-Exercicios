@@ -1,0 +1,2 @@
+fazer import kotlin.math
+sqrt, pow//// 2^3 -> 2.0.pow(3.0)

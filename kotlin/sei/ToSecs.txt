@@ -1,0 +1,1 @@
+Programa que lê hora, min, seg e converte p/ segundos totais
